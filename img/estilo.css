@@ -1,31 +1,36 @@
-			
-			
 			p{
 				color: black;
+				text-align: left;
+				padding-left:10px;
+				padding-right:10px;
+			}
+			ul{
+				color: black;
+				text-align: left;
+				padding-left:20px;
+				padding-right:10px;
+				list-style-type: circle;
 			}
 			h1{
 				
 				text-shadow:#000 1px -1px, #000 -1px 1px, #000 1px 1px, #000 -1px -1px;
 			}
-			
-			h2{
-				text-shadow:#000 1px -1px, #000 -1px 1px, #000 1px 1px, #000 -1px -1px;
+			 td {
+				width:200px
 			}
-			
+			#intro p{
+				text-align: center;
+				}
+				
 			body{
 				font-family:arial, helvetica, serif;
 			}	
 			
-			ul li{
-				text-shadow:#000 1px -1px, #000 -1px 1px, #000 1px 1px, #000 -1px -1px;
-				text-align:left;
-				
-			}
 			.topo{
 				position:absolute;
 				left:0px;
 				height:150px;
-				width:1365px;
+				width:1280px;
 				border-width:5px;
 				border-color:green;
 				border-style: solid;
@@ -90,8 +95,8 @@
 				top:210px;
 				color:white;
 				text-align:center;
-				height:485px;
-				width:1355px;
+				height:auto;
+				width:1265px;
 				
 				-moz-border-radius: 10px; /* Para Firefox */
 				-webkit-border-radius: 10px; /*Para Safari e Chrome */
@@ -102,11 +107,11 @@
 				font-weight: bold;
 				position:absolute;
 				left:5px;
-				top:700px;
+				top:85%;
 				color:green;
 				text-align:center;
 				height:50px;
-				width:1355px;
+				width:1280px;
 				border-top-style:solid;
 				border-color:green;
 			}
@@ -148,7 +153,7 @@
 				color:white;
 				text-align:center;
 				height:20px;
-				width:200px;
+				width:180px;
 				-moz-border-radius: 5px; /* Para Firefox */
 				-webkit-border-radius: 5px; /*Para Safari e Chrome */
 				border-radius: 10px; /* Para Opera 10.5+*/
@@ -164,7 +169,7 @@
 				color:white;
 				text-align:center;
 				height:20px;
-				width:200px;
+				width:180;
 							
 				-moz-border-radius: 10px; /* Para Firefox */
 				-webkit-border-radius: 10px; /*Para Safari e Chrome */
@@ -180,7 +185,7 @@
 				color:white;
 				text-align:center;
 				height:20px;
-				width:200px;
+				width:180px;
 				
 				-moz-border-radius: 10px; /* Para Firefox */
 				-webkit-border-radius: 10px; /*Para Safari e Chrome */
@@ -196,7 +201,7 @@
 				color:white;
 				text-align:center;
 				height:20px;
-				width:200px;
+				width:180px;
 				
 				-moz-border-radius: 10px; /* Para Firefox */
 				-webkit-border-radius: 10px; /*Para Safari e Chrome */
@@ -212,7 +217,7 @@
 				color:white;
 				text-align:center;
 				height:20px;
-				width:200px;
+				width:180px;
 				
 				-moz-border-radius: 10px; /* Para Firefox */
 				-webkit-border-radius: 10px; /*Para Safari e Chrome */
@@ -228,7 +233,7 @@
 				color:white;
 				text-align:center;
 				height:20px;
-				width:200px;
+				width:180px;
 				
 				-moz-border-radius: 10px; /* Para Firefox */
 				-webkit-border-radius: 10px; /*Para Safari e Chrome */
@@ -244,7 +249,7 @@
 				color:white;
 				text-align:center;
 				height:20px;
-				width:200px;
+				width:180px;
 				
 				-moz-border-radius: 10px; /* Para Firefox */
 				-webkit-border-radius: 10px; /*Para Safari e Chrome */
